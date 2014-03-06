@@ -1,0 +1,11 @@
+These are my dotfiles, use them carefully
+
+Vim:
+    .vimrc
+    .vim 
+    requires vundle and exuberant-ctags and powerline fonts at least
+
+Tmux:
+    .tmux.conf
+    works with xfce4-termin
+    requires powerline fonts at least
